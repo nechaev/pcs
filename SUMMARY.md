@@ -6,3 +6,4 @@
 
 - [Files](common/files.md)
 - [Naming](common/naming.md)
+- [Indenting and braces](common/indenting-and-braces.md)
